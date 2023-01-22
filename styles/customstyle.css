@@ -7,6 +7,10 @@
 .cc-button{
     transform: translate(80%,-50%);
 }
+.cs-ex-card{
+    transform: translate(0%,-5%)
+
+}
 ul {
     list-style-type: '\2713';
     font-size: 1.2rem;
@@ -22,5 +26,9 @@ ul li {
     .banner-image {
         width: auto;
         height: 80vh;
+    }
+    .cs-ex-card{
+        transform: translate(0%,0%)
+    
     }
 }
